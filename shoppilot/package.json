@@ -2,6 +2,10 @@
   "name": "shoppilot",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
+=======
+  "proxy": "http://localhost:8080",
+>>>>>>> 47dceb3195e302200452e27fca3fa60c95fb6d3a
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
